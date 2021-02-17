@@ -103,15 +103,15 @@ The online classified market is expected to increase due to growth in the retail
 # 2 Objective and scope
 This encloses the needs and scope of the development of the project. The objectives can be explained as following:
 ## 2.1	Objectives
-1    To make buying and selling of secondhand items easy and convenient.
-2    To connect interested buyers and sellers.
-3.   To provide information about various products in a different category.
-4.   Customer can login and get various information about products and can purchase a suitable product with price and quality comparison.
-5.   Customer can login and post information about the products they want to sell.
+* To make buying and selling of secondhand items easy and convenient.
+* To connect interested buyers and sellers.
+* To provide information about various products in a different category.
+* Customer can login and get various information about products and can purchase a suitable product with price and quality comparison.
+* Customer can login and post information about the products they want to sell.
 ## 2.2 Scope
-1.  Customers can buy and sell products online.
-2.  This can be used as online marketplace and classified advertising platform.
-3.  Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
+* Customers can buy and sell products online.
+* This can be used as online marketplace and classified advertising platform.
+* Buyers and Sellers are connected and  transaction are done through this site, this reduces the chances of fraud and scam.
 
 # 3 Literature Review 
 Today’s world is computer dominated world. Each and every field is dependent on computer to perform the task ranging from simple to complex one. Computer has been applied in almost every field among which Advertising field is one of them. So we intended to develop a Classified Advertising platform that will help in smoothening the online advertising sector.
