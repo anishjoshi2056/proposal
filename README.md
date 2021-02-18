@@ -130,7 +130,8 @@ A simple block diagram has been presented here which gives some insight into the
 # 3.7.2 Software requirements
 
 # 4 Design Diagrams 
-# 4.1 Use Case Diagram 
+# 4.1 ER diagram
+![](ER-diagram.gif)
 # 4.1.1 Use Case Diagram for XYZ 
 # 4.1.2 Use Case Diagram for ABC 
 # 4.1.3 Use Case Diagram for EFG
