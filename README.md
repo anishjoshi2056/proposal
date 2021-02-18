@@ -167,10 +167,12 @@ Node.js provides a JavaScript Environment which allows the user to run their cod
 
 
 # 4 Design Diagrams 
-## 4.1 Use Case Diagram 
-### 4.1.1 Use Case Diagram for XYZ 
-### 4.1.2 Use Case Diagram for ABC 
-### 4.1.3 Use Case Diagram for EFG
+## 4.1 ER diagram
+![](ER-diagram.gif)
+### 4.1.1 Use Case Diagram for direct-buy mode
+ ![](ucdir.gif)
+### 4.1.2 Use Case Diagram for middle-man mode
+ ![](ucmm.gif)
    
 # 5.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
