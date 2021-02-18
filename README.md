@@ -133,9 +133,9 @@ A simple block diagram has been presented here which gives some insight into the
 # 4.1 ER diagram
 ![](ER-diagram.gif)
 # 4.1.1 Use Case Diagram for direct-buy mode
- ![](use case direct buy.gif)
+ ![](ucdir.gif)
 # 4.1.2 Use Case Diagram for middle-man mode
- ![](use case middle man.gif)
+ ![](ucmm.gif)
 # 4.1.3 Use Case Diagram for EFG
    
 # 5.FEASIBILITY ANALYSIS
