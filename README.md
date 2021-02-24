@@ -179,24 +179,9 @@ For the system that is to be developed must satisfy all the feasible strategy.Th
 # 5.1 Technical feasibility
 The necessary technology to develop our project "CLASSIFIED ADVERTISING PLATFORM ". Software like Node.js and MongoDB can be used to develop the back end which contains the actual database in which various information are stored which can be manipulated or retrieved as per the requirement. React.js front-end framework can be used to develop a user friendly interface to be used by the system user. Therefore the project team feels it is capable of making use of the available technology to build "CLASSIFIED ADVERTISING PLATFORM" website. Hence the system is technically feasible.
 # 5.2 Economic Feasibility 
-For any system if the expected benefits equal or exceed the expected costs, the system can be judged to be economically feasible. In economic feasibility, cost benefit analysis is done in which expected costs and benefits are evaluated. Economic analysis is used for evaluating the effectiveness of the proposed system.
-
-Developing an IT application is an investment. Since after developing that application it provides the organization with profits. Profits can be monetary or in the form of an improved working environment. However, it carries risks, because in some cases an estimate can be wrong. And the project might not actually turn out to be beneficial.
-Cost benefit analysis helps to give management a picture of the costs, benefits and risks. It usually involves comparing alternate investments.
-Cost benefit determines the benefits and savings that are expected from the system and compares them with the expected costs.
-The cost of an information system involves the development cost and maintenance cost. The development costs are one time investment whereas maintenance costs are recurring. The development cost is basically the costs incurred during the various stages of the system development.
-(source: https://www.freetutes.com/systemanalysis/sa3-cost-benefit-analysis.html)
+This system in economically feasible.Since the cost of this system is only the implementation cost of the system there is no need to pay any monery thereafter.
 # 5.3 Operational Feasibility
-Operational feasibility is mainly concerned with issues like whether the system will be used if it is developed and implemented. Whether there will be resistance from users that will effect the possible application benefits? The essential questions that help in testing the operational feasibility of a system are following.
-
-Does management support the project?
-
-Are the users not happy with current business practices? Will it reduce the time (operation) considerably? If yes, then they will welcome the change and the new system.
-
-Have the users been involved in the planning and development of the project? Early involvement reduces the probability of resistance towards the new system.
-
-Will the proposed system really benefit the organization? Does the overall response increase? Will accessibility of information be lost? Will the system effect the customers in considerable way?
-(source:https://www.freetutes.com/systemanalysis/sa3-technical-economic-operational-legal.html)
+Since online classified advertising system is intended to be user friendly application with no formal computer training required for the system user and also the application will make his/her work easier and the working environment more satisfactory it is assumed that there will be no difficulty in bringing the system into operation in an actual work environment as long as user’s requirement are met.
 # 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
 ![](architecture.gif)
 # 7 Project Schedule 
@@ -205,9 +190,8 @@ Will the proposed system really benefit the organization? Does the overall respo
 # 8 Conclusion 
 CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
 # 9 References 
-* [https://en.wikipedia.org/wiki/Advertising]
-* [https://en.wikipedia.org/wiki/Classified_advertising]
-* [https://blog.hubspot.com/marketing/history-of-online-advertising]	
-* [https://www.geeksforgeeks.org/mern-stack/]
-* [https://www.globenewswire.com/fr/news-release/2020/12/18/2147726/0/en/Global-Online-Classified-Market-2020-to-2024-Size-Forecasts-with-Impact-Analysis-of-COVID-19.html]	
-* [https://en.wikipedia.org/wiki/Decline_of_newspapers]
+* [1] Advertising[https://en.wikipedia.org/wiki/Advertising],[Accessed 02-18 - 2021]
+* [2] Classified advertising[https://en.wikipedia.org/wiki/Classified_advertising] ,[Accessed 02-18 - 2021]
+* [3] history of online advertising[https://blog.hubspot.com/marketing/history-of-online-advertising] ,[Accessed 02-18 - 2021]	
+* [4] Mern Stack[https://www.geeksforgeeks.org/mern-stack/] ,[Accessed 02-18 - 2021]
+* [5] Decline of newspapers[https://en.wikipedia.org/wiki/Decline_of_newspapers] ,[Accessed 02-18 - 2021]
