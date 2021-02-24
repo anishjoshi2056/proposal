@@ -77,19 +77,6 @@ The project entitled “Classified Advertising platform (SastoSaaman)” is a we
 ### 7 Conclusion ...........................................15 
 ### 8 References ............................................................16 iv 
 
-# List of Figures and Graphs 
-
-Figure 1: E-R Diagram …........................................ 
-
-Figure 2: System Block Diagram ……………………………………………………………………………………………. 
-
-Figure 3: XYZ……………………………………………………………………………………………………….. 
-
-Figure 4: ABC …………………………………………………………………………………………. 
-
-Table 1: Project Tools …………………………………………………………………………………………………………… 
-
-Table 2: Cost Estimation ………………………………………………………………………………………………………… 
 
 # 1.Introduction
 
