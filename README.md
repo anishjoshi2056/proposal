@@ -170,9 +170,9 @@ The system is put into production when the first increment is delivered. The fir
  ![](ucmm.gif)
 ## 4.4 System block diagram 
 ### 4.4.1 System block diagram for buyer
- ![](System Block diagram for Buyer.jpeg)
+ ![](buyer.jpeg)
 ### 4.4.2 System block diagram for seller
- ![](Sytem Block Diagram for Seller.jpeg)
+ ![](seller.jpeg)
 ## 4.5 Architecture of CLASSIFIED ADVERTISING PLATFORM
 ![](architecture.gif)
    
