@@ -73,7 +73,9 @@ The project entitled “Classified Advertising platform (SastoSaaman)” is a we
 ### 5.1 Technical Feasibility .............................11 
 ### 5.2 Economic Feasibility .........................................11 
 ### 5.3 Operational Feasibility ..........................12 
-### 6 Project Schedule ............................................14 
+### 6 Epilogue ............................................14 
+### 6.1 Budget Analysis .......................................14 
+### 6.2 Work Schedule .......................................14 
 ### 7 Conclusion ...........................................15 
 ### 8 References ............................................................16 iv 
 
@@ -184,13 +186,15 @@ The necessary technology to develop our project "CLASSIFIED ADVERTISING PLATFORM
 This system in economically feasible.Since the cost of this system is only the implementation cost of the system there is no need to pay any monery thereafter.
 # 5.3 Operational Feasibility
 Since online classified advertising system is intended to be user friendly application with no formal computer training required for the system user and also the application will make his/her work easier and the working environment more satisfactory it is assumed that there will be no difficulty in bringing the system into operation in an actual work environment as long as user’s requirement are met.
-
-# 7 Project Schedule 
+# 6 Epilogue
+# 6.1 Budget Analysis
+The cost of our project is around Rs 1000 and the estimated time to complete the project is 15 days.
+## 6.2 Work Schedule 
 ![](duration.png)
 ![](ganttchart.png)
-# 8 Conclusion 
+# 7 Conclusion 
 CLASSIFIED ADVERTISING PLATFORM (SastoSaaman) is a web based application that aims to empower every person in the country to independently connect with buyers and sellers online.To enjoy its service you need to sign-up with an email address, name, and password. After successful login, you can easily explore its ads, add your own post, and access it all features without any limit. One of the most exciting facts about SastoSaaman is that it comes with rich privacy and security features to deliver safe experience.It also includes lots of prominent features such as simple interface, allow you to ad post or connect with seller, regular update with tons of ads, advanced search box, and much more. The only drawback of classified ad site is the obtrusive and offensive ads are showing with regular ads that may impact the wrong impression on the reputation of the website.
-# 9 References 
+# 8 References 
 * [1] Advertising[https://en.wikipedia.org/wiki/Advertising],[Accessed 02-18 - 2021]
 * [2] Classified advertising[https://en.wikipedia.org/wiki/Classified_advertising] ,[Accessed 02-18 - 2021]
 * [3] history of online advertising[https://blog.hubspot.com/marketing/history-of-online-advertising] ,[Accessed 02-18 - 2021]	
