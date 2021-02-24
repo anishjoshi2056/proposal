@@ -56,23 +56,26 @@ List of Figures ................................................................
 3.4 MONGODB ............................................................. 5 
 3.5 Express.js.......................................................................... 5 
 3.6 React.js..................................................................... 5 
-3.6 E-R diagram ............................................... 6 
 3.7 System Environment .................................... 7 
 3.7.1 Hardware requirements ....................... 7 
 3.7.2 Software requirements ....................................... 7 
-4 Design Diagrams .................................................... 8 
-4.1 Use Case Diagram ........................................ 8 
-4.1.1 Use Case Diagram for XYZ ........................... 8 
-4.1.2 Use Case Diagram for ABC .............................................................................. 9 
-4.1.3 Use Case Diagram for EFG .......................................................................10 
+4 Methodology .................................................... 8 
+4.1 Incremental Model ...................................8
+4.2 E-R Diagram ............................8
+4.3 Use Case Diagram ........................................ 8 
+4.3.1 Use Case Diagram for direct-buy mode ........................... 8 
+4.3.2 Use Case Diagram for middle-man mode ..................................... 9 
+4.4 System block diagram ................................ 8
+4.4.1 System block diagram for buyer ................... 8
+4.4.2 System block diagram for selller ................ 8
+4.5 Architecture of CLASSIFIED ADVERTISING PLATFORM ......................... 8
 5 Feasibility Study ...........................................................11 
 5.1 Technical Feasibility ......................................................11 
 5.2 Economic Feasibility ...................................................11 
 5.3 Operational Feasibility ...........................................12 
-6 Architecture of CLASSIFIED ADVERTISING PLATFORM .........................13 
-7 Project Schedule .............................................................14 
-8 Conclusion ..........................................................................15 
-9 References ............................................................16 iv 
+6 Project Schedule .............................................................14 
+7 Conclusion ..........................................................................15 
+8 References ............................................................16 iv 
 
 # List of Figures and Graphs 
 
@@ -142,7 +145,6 @@ React is a JavaScript library that is used for building user interfaces. React i
 ## 3.7 Node.js
 Node.js provides a JavaScript Environment which allows the user to run their code on the server (outside the browser). It is open source JavaScript Runtime Environment. Node pack manager i.e. npm allows the user to choose from thousands of free packages (node modules) to download. It follows single threaded model. It is built on Google Chrome’s JavaScript Engine, so it has fast code execution and is highly scalable.
 
-## 3.8 ER diagram(To be done later)
 
 ## 3.9 System Environment
  For design and development given system environment is required.
@@ -165,14 +167,27 @@ Node.js provides a JavaScript Environment which allows the user to run their cod
 
 
 
+# 4 Methodology
+## 4.1 Incremental Model
+Incremental Model is a process of software development where requirements are broken down into multiple standalone modules of software development cycle. Incremental development is done in steps from analysis design, implementation, testing/verification, maintenance.
+![](Incremental-Model.png)
+Each iteration passes through the requirements, design, coding and testing phases. And each subsequent release of the system adds function to the previous release until all designed functionality has been implemented.
+The system is put into production when the first increment is delivered. The first increment is often a core product where the basic requirements are addressed, and supplementary features are added in the next increments. Once the core product is analyzed by the client, there is plan development for the next increment.
 
-# 4 Design Diagrams 
-## 4.1 ER diagram
-![](ER-diagram.gif)
-### 4.1.1 Use Case Diagram for direct-buy mode
+## 4.2 ER diagram
+ ![](ER-diagram.gif)
+## 4.3 Use Case diagram
+### 4.3.1 Use Case Diagram for direct-buy mode
  ![](ucdir.gif)
-### 4.1.2 Use Case Diagram for middle-man mode
+### 4.3.2 Use Case Diagram for middle-man mode
  ![](ucmm.gif)
+## 4.4 System block diagram 
+### 4.4.1 System block diagram for buyer
+ ![](System Block diagram for Buyer.jpeg)
+### 4.4.2 System block diagram for seller
+ ![](Sytem Block Diagram for Seller.jpeg)
+## 4.5 Architecture of CLASSIFIED ADVERTISING PLATFORM
+![](architecture.gif)
    
 # 5.FEASIBILITY ANALYSIS
 For the system that is to be developed must satisfy all the feasible strategy.This step deals with the various types of the feasibilities that are needed to be considered during the system development. Mainly there are different types of feasibility that are needed to be considered and they are:
@@ -182,8 +197,7 @@ The necessary technology to develop our project "CLASSIFIED ADVERTISING PLATFORM
 This system in economically feasible.Since the cost of this system is only the implementation cost of the system there is no need to pay any monery thereafter.
 # 5.3 Operational Feasibility
 Since online classified advertising system is intended to be user friendly application with no formal computer training required for the system user and also the application will make his/her work easier and the working environment more satisfactory it is assumed that there will be no difficulty in bringing the system into operation in an actual work environment as long as user’s requirement are met.
-# 6 Architecture of CLASSIFIED ADVERTISING PLATFORM
-![](architecture.gif)
+
 # 7 Project Schedule 
 ![](duration.png)
 ![](ganttchart.png)
